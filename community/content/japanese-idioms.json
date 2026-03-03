@@ -118,18 +118,41 @@
     "romaji": "Hara ga tatsu",
     "english": "Stomach stands up",
     "meaning": "Get angry. (Set 3)"
-  }
-  ,
-  { "japanese": "手に入れる", 
-    "romaji": "Te ni ireru", 
-    "english": "Put into one’s hand", 
-    "meaning": "Obtain something. (Set 1)" 
   },
   {
-  "japanese": "腹が立つ",
-  "romaji": "Hara ga tatsu",
-  "english": "Stomach stands up",
-  "meaning": "Get angry. (Set 3)"
-}
-
+    "japanese": "手に入れる",
+    "romaji": "Te ni ireru",
+    "english": "Put into one’s hand",
+    "meaning": "Obtain something. (Set 1)"
+  },
+  {
+    "japanese": "腹が立つ",
+    "romaji": "Hara ga tatsu",
+    "english": "Stomach stands up",
+    "meaning": "Get angry. (Set 3)"
+  },
+  {
+    "japanese": "口が堅い",
+    "romaji": "Kuchi ga katai",
+    "english": "Tight-lipped",
+    "meaning": "Can keep secrets. (Set 6)"
+  },
+  {
+    "japanese": "手を抜く",
+    "romaji": "Te o nuku",
+    "english": "Cut corners",
+    "meaning": "Do less than one should. (Set 6)"
+  },
+  {
+    "japanese": "気が進まない",
+    "romaji": "Ki ga susumanai",
+    "english": "Spirit doesn't proceed",
+    "meaning": "Not feel like doing it. (Set 1)"
+  },
+  {
+    "japanese": "胸を張る",
+    "romaji": "Mune o haru",
+    "english": "Expand chest",
+    "meaning": "Be proud/confident. (Set 3)"
+  }
 ]

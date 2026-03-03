@@ -196,7 +196,7 @@
     "game": "Samurai game proverb line",
     "character": "Musashi reference",
     "id": 20,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -277,7 +277,7 @@
     "character": "Sora",
     "id": 28,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "負ける気がしない",
@@ -296,7 +296,7 @@
     "game": "Dragon Quest XI",
     "character": "Hero / party lines",
     "id": 30,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -377,7 +377,7 @@
     "character": "Revali",
     "id": 38,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "俺たちの物語は、ここからだ",
@@ -387,7 +387,7 @@
     "character": "Various endings",
     "id": 39,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "勝つと思うな、思えば負けよ",
@@ -397,7 +397,7 @@
     "character": "Musashi reference",
     "id": 40,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "まだまだだね",
@@ -416,7 +416,7 @@
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 42,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -427,7 +427,7 @@
     "character": "Luke fon Fabre",
     "id": 43,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "未来を変えるんだ！",
@@ -447,7 +447,7 @@
     "character": "Makoto Naegi",
     "id": 45,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "覚悟はいいか？ 俺はできてる。",
@@ -457,7 +457,7 @@
     "character": "Giorno Giovanna",
     "id": 46,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "仲間を信じろ",
@@ -466,7 +466,7 @@
     "game": "Dragon Quest series",
     "character": "Recurring command voice",
     "id": 47,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -477,7 +477,7 @@
     "character": "Sora",
     "id": 48,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "負ける気がしない",
@@ -487,7 +487,7 @@
     "character": "Ryu",
     "id": 49,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "冒険の始まりだ！",
@@ -496,7 +496,7 @@
     "game": "Dragon Quest XI",
     "character": "Hero / party lines",
     "id": 50,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -707,7 +707,7 @@
     "character": "Guild Handler lines",
     "id": 71,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "次はもっと強くなる",
@@ -726,7 +726,7 @@
     "game": "Final Fantasy Type-0",
     "character": "Class Zero",
     "id": 73,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1077,7 +1077,7 @@
     "character": "Sora",
     "id": 108,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "負ける気がしない",
@@ -1107,7 +1107,7 @@
     "character": "Guild Handler lines",
     "id": 111,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "次はもっと強くなる",
@@ -1126,7 +1126,7 @@
     "game": "Final Fantasy Type-0",
     "character": "Class Zero",
     "id": 113,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1166,7 +1166,7 @@
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 117,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1176,7 +1176,7 @@
     "game": "The Legend of Zelda: Breath of the Wild (JP)",
     "character": "Revali",
     "id": 118,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
