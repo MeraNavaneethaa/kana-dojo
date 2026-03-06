@@ -14,6 +14,7 @@ export interface KanaSelection {
   totalSelected: number;
   isEmpty: boolean;
   gameMode: string;
+  kanaPerRound: number;
 }
 
 export interface KanaSelectionActions {
@@ -23,14 +24,17 @@ export interface KanaSelectionActions {
   selectAll: () => void;
   isGroupSelected: (index: number) => boolean;
   setGameMode: (mode: string) => void;
+  setKanaPerRound: (count: number) => void;
 }
 
 export function useKanaSelection(): KanaSelection & KanaSelectionActions {
   const selectedGroupIndices = useKanaStore(state => state.kanaGroupIndices);
   const gameMode = useKanaStore(state => state.selectedGameModeKana);
+  const kanaPerRound = useKanaStore(state => state.kanaPerRound);
   const addGroup = useKanaStore(state => state.addKanaGroupIndex);
   const addGroups = useKanaStore(state => state.addKanaGroupIndices);
   const setGameMode = useKanaStore(state => state.setSelectedGameModeKana);
+  const setKanaPerRound = useKanaStore(state => state.setKanaPerRound);
 
   return useMemo(
     () => ({
@@ -39,6 +43,7 @@ export function useKanaSelection(): KanaSelection & KanaSelectionActions {
       totalSelected: selectedGroupIndices.length,
       isEmpty: selectedGroupIndices.length === 0,
       gameMode,
+      kanaPerRound,
 
       // Actions
       addGroup,
@@ -54,7 +59,8 @@ export function useKanaSelection(): KanaSelection & KanaSelectionActions {
       },
       isGroupSelected: (index: number) => selectedGroupIndices.includes(index),
       setGameMode,
+      setKanaPerRound,
     }),
-    [selectedGroupIndices, gameMode, addGroup, addGroups, setGameMode],
+    [selectedGroupIndices, gameMode, kanaPerRound, addGroup, addGroups, setGameMode, setKanaPerRound],
   );
 }
