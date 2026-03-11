@@ -90,5 +90,12 @@
     "english": "What are you talking about?!",
     "region": "Kansai",
     "note": "Classic comedic retort (tsukkomi). (Set 2)"
-  }
+  },
+  {
+  "dialect": "あかん",
+  "standardJapanese": "だめ",
+  "english": "no good",
+  "region": "Kansai",
+  "note": "Used for prohibition/failure. (Set 5)"
+}
 ]
